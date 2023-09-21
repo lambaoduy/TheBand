@@ -131,7 +131,7 @@ color: black;
 position: relative;
 margin-top: 46px;
 padding-top: 50%;
-background: url('https://www.w3schools.com/w3css/img_la.jpg') top center /cover no-repeat;
+background:url(../image/w3school-art.jpg) top center /cover no-repeat;
 }
 
 #slider .text-content{
